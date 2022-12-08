@@ -99,3 +99,6 @@ of the search space (e.g. the difference between the upper bound and the lower b
 some specified tolerance. Because of the way we've been narrowing in on the solution, the midpoint
 of this range should be quite close to b<sub>optimal</sub>!
 
+## Test Cases
+
+![image](https://user-images.githubusercontent.com/119697227/206554960-f171455e-8082-4f9c-a99f-56d8972533c2.png)
